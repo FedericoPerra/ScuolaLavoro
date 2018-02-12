@@ -1,3 +1,7 @@
 hello pesa!
 hello perra!
+<<<<<<< HEAD
 hello fra
+=======
+hello bro!
+>>>>>>> df06129590cbdd9ed0a38aa4c5a4e7e9a0e4e4f4
